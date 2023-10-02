@@ -75,12 +75,12 @@ android {
         development {
             dimension "default"
             // applicationIdSuffix "dev"
-            manifestPlaceholders = [appName: "Kết nối Hàn Quốc [DEV]"]
+            manifestPlaceholders = [appName: "Hàn Quốc Connect [DEV]"]
         } 
         production {
             dimension "default"
             applicationIdSuffix ""
-            manifestPlaceholders = [appName: "Kết nối Hàn Quốc"]
+            manifestPlaceholders = [appName: "Hàn Quốc Connect"]
         } 
     }
 

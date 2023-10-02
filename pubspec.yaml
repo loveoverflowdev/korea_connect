@@ -94,6 +94,8 @@ dev_dependencies:
   bloc_test: ^9.0.3
   build_runner: ^2.0.3
   build_verify: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+  
   build_version: ^2.0.3
   fake_async: ^1.3.0
   flutter_test:
@@ -101,17 +103,16 @@ dev_dependencies:
   json_serializable: ^6.3.1
   mocktail: ^0.3.0
   mocktail_image_network: ^0.3.1
-  flutter_launcher_icons: ^0.13.1
 
 dependency_overrides:
   intl: ^0.18.0
   watcher: ^1.1.0
 
-flutter_icons:
+flutter_launcher_icons:
   # background_color: "0f253c"
   # theme_color: "0f253c"
-  android: true # can specify file name here e.g. "ic_launcher"
-  ios: "AppIcon"
+  android: true
+  ios: true
   image_path_ios: "assets/logos/launcher.png"
   image_path_android: "assets/logos/launcher.png"
   remove_alpha_ios: true
