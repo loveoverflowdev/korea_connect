@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "813852571784",
+    "project_id": "asuraman-51e4d",
+    "storage_bucket": "asuraman-51e4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813852571784:android:c393be53172eba3583873d",
+        "android_client_info": {
+          "package_name": "asura.connect.korea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813852571784-q9dipm1j9bi5hak55jmnsda7mqmm920f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKN4MJtzEHNPJPQ5QR1KoqGP0OT-K4P6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813852571784-q9dipm1j9bi5hak55jmnsda7mqmm920f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813852571784-9j0v0c6oroqk51ecbfs4uo7n8oeal1gp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asure.nividata.mathmatrix"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813852571784:android:f88cc02c798e2e1d83873d",
+        "android_client_info": {
+          "package_name": "com.asura.korea.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813852571784-q9dipm1j9bi5hak55jmnsda7mqmm920f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKN4MJtzEHNPJPQ5QR1KoqGP0OT-K4P6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813852571784-q9dipm1j9bi5hak55jmnsda7mqmm920f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813852571784-9j0v0c6oroqk51ecbfs4uo7n8oeal1gp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asure.nividata.mathmatrix"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813852571784:android:d8b43e06823f32b883873d",
+        "android_client_info": {
+          "package_name": "com.flutter.news.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813852571784-q9dipm1j9bi5hak55jmnsda7mqmm920f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKN4MJtzEHNPJPQ5QR1KoqGP0OT-K4P6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813852571784-q9dipm1j9bi5hak55jmnsda7mqmm920f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813852571784-9j0v0c6oroqk51ecbfs4uo7n8oeal1gp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asure.nividata.mathmatrix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

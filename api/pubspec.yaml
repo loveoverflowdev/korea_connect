@@ -1,0 +1,26 @@
+name: korea_connect_api
+description: A korea_connect server app built with the dart_frog package.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  collection: ^1.16.0
+  dart_frog: ^1.0.1
+  equatable: ^2.0.5
+  http: ^0.13.5
+  json_annotation: ^4.6.0
+  news_blocks:
+    path: packages/news_blocks
+
+dependency_overrides:
+  watcher: ^1.1.0
+
+dev_dependencies:
+  build_runner: ^2.3.3
+  json_serializable: ^6.5.4
+  mocktail: ^0.3.0
+  test: ^1.22.2
+  very_good_analysis: ^4.0.0
